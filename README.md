@@ -1,5 +1,5 @@
-# GitWorkFlow
-# Workflow
+# Giow
+# Wow
 
 Step 1: Leads request SCM to create branch depends on the purpose like bug/feature
 
